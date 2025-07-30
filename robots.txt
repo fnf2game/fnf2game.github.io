@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://fnf2game.github.io/sitemap.xml
